@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.deps.json
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.dll
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/ref/Csharp Basics.dll
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/bin/Debug/net5.0/Csharp Basics.pdb
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.dll
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/ref/Csharp Basics.dll
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.pdb
+/Users/madi/Documents/GitHub/IT-2040/Csharp Basics/obj/Debug/net5.0/Csharp Basics.genruntimeconfig.cache
