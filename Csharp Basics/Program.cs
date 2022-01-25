@@ -147,7 +147,7 @@ namespace Csharp_Basics
             const string greeting = "Hello";
             string name = "Karen";
             {
-                Console.WriteLine(greeting + name);
+                Console.WriteLine($"{greeting} {name}");
             }
             
         }
