@@ -57,7 +57,7 @@ namespace GradeConverter
             Console.WriteLine("\n\nNumber score to letter grade conversion:");
             foreach(double item in numbers)
             {
-                char letterGrade = convertNumber(item);
+                string letterGrade = convertNumber(item);
                 Console.WriteLine($"A score of {item} is a {letterGrade} grade");
 
             }
@@ -70,12 +70,12 @@ namespace GradeConverter
             
             /*calculate average of all grades in list*/
             int amt = numbers.Count;
-            double sum = 0;
+            double total = 0;
             foreach(double item in numbers)
             {
-               sum += item;
+               total += item;
             }
-            double average = sum / amt;
+            double average = total / amt;
 
             Console.WriteLine($"Number of grades: {amt}");
             Console.WriteLine($"Average Grade: {average}, which is a {convertNumber(average)}");
@@ -120,28 +120,28 @@ namespace GradeConverter
 
 
         /*if/else funtion to convert number to letter grade*/
-        static char convertNumber(double item)
+        static string convertNumber(double item)
         {
-            char grade = 'I';
+            string grade = "";
             if (item >= 90 && item <= 100)
             {
-                grade = 'A';
+                grade = "A";
             }
             else{
                 if (item >= 80 && item <= 89.999){
-                    grade = 'B';
+                    grade = "B";
                 }
                 else{
                     if (item >= 70 && item <= 79.999){
-                        grade = 'C';
+                        grade = "C";
                     }
                     else{
                         if (item >= 60 && item <= 69.999){
-                            grade = 'D';
+                            grade = "D";
                         }
                         else{
                             if (item >=0 && item <= 59.999){
-                                grade = 'F';
+                                grade = "F";
                             }
                         }
                     }
