@@ -89,7 +89,7 @@ namespace GradeConverter
             }
             else{
                 restart = false;
-            }
+                }
             }
 
         }
@@ -102,19 +102,21 @@ namespace GradeConverter
         static int getNumberOfGrades()
         {
             int gradeNumber;
+            
+            while(true){
             try
             {
                 Console.WriteLine("\n\nEnter the number of grades you need to convert: ");
 
                 gradeNumber = int.Parse(Console.ReadLine());
+                break;
                 
             }catch(Exception)
             {
-                Console.WriteLine("There was an error. Must enter a grade between 0 and 100. Value stored as -1.");
+                Console.WriteLine("\n\nERROR: Only numerical values are accepted.");
 
-                gradeNumber = -1;
+                }
             }
-
             return gradeNumber;
         }
 
@@ -123,30 +125,18 @@ namespace GradeConverter
         static string convertNumber(double item)
         {
             string grade = "";
-            if (item >= 90 && item <= 100)
-            {
+            if (item >= 90){
                 grade = "A";
+            }else if (item >= 80 && item <= 90){
+                grade = "B";
+            }else if (item >= 70 && item <= 80){
+                grade = "C";
+            }else if (item >= 60 && item <= 70){
+                grade = "D";
+            }else{
+                grade = "F";
             }
-            else{
-                if (item >= 80 && item <= 89.999){
-                    grade = "B";
-                }
-                else{
-                    if (item >= 70 && item <= 79.999){
-                        grade = "C";
-                    }
-                    else{
-                        if (item >= 60 && item <= 69.999){
-                            grade = "D";
-                        }
-                        else{
-                            if (item >=0 && item <= 59.999){
-                                grade = "F";
-                            }
-                        }
-                    }
-                }
-            }
+
             return grade;
         }
 
@@ -156,24 +146,29 @@ namespace GradeConverter
         {
             double userValue;
            
+           while(true){
             try
             {
                 /*prompt user for value*/
                 Console.WriteLine("Enter Grade: ");
-                
                 /*get value from console and convert to double type*/
                 userValue = double.Parse(Console.ReadLine());
+                /*only accepts values 0-100*/
+                if (userValue <0 || userValue >100){
+                    Console.WriteLine("ERROR: Only values from 0 to 100 are accepted");
+                    continue;
+                }
+
+                break;
 
             }catch(Exception)
             {
-                Console.WriteLine("There was an error. Value stored as -1");
-                /*return -1 if bad input*/
-                userValue = -1;
+                Console.WriteLine("ERROR: Only numerical values are accepted.");
+                
             }
-
+           }
             return userValue;
-
-
+           
         }
 
     }
