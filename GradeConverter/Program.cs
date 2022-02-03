@@ -141,7 +141,7 @@ namespace GradeConverter
         }
 
 
-        /*code shown in class on 2/1/2022 for function that prompts user to enter grades and add to list*/
+        /*function that prompts user to enter grades and add to list*/
         static double getNumber()
         {
             double userValue;
