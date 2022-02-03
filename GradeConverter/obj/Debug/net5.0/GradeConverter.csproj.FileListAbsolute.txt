@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/GradeConverter
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/GradeConverter.deps.json
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/GradeConverter.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/GradeConverter.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/GradeConverter.dll
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/ref/GradeConverter.dll
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/bin/Debug/net5.0/GradeConverter.pdb
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.dll
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/ref/GradeConverter.dll
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.pdb
+/Users/madi/Documents/GitHub/IT-2040/GradeConverter/obj/Debug/net5.0/GradeConverter.genruntimeconfig.cache
