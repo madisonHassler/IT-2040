@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/Document Merger
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/Document Merger.deps.json
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/Document Merger.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/Document Merger.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/Document Merger.dll
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/ref/Document Merger.dll
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/bin/Debug/net5.0/Document Merger.pdb
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.dll
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/ref/Document Merger.dll
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.pdb
+/Users/madi/Documents/GitHub/IT-2040/Document Merger/obj/Debug/net5.0/Document Merger.genruntimeconfig.cache
