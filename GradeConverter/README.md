@@ -1,3 +1,4 @@
+# Challenge: GradeConverter
 **Description:** Write a program that converts number scores into the correct letter grade, e.g. 88 = "B", and 76 = "C". The program will also produce statistics for the grades.
 
 **Purpose:** This application provides experience with user input and interaction in the Console, writing functions, using lists and loops, and writing programs in C#/.NET.
