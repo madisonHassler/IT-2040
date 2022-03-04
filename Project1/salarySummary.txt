@@ -1,0 +1,7 @@
+Payroll Summary
+---------------
+Number of Employees Paid: 30
+Total Payroll: $17,403.00
+Average Salary: $580.10
+Maximum Salary: $1,091.72
+Minimum Salary: $201.11
