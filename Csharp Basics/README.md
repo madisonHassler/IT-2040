@@ -1,4 +1,4 @@
-**Challenge**: C# Basics
+# **Challenge**: C# Basics
 
 **Description**: Write a C# console application using .NET Core that utilizes constants, variables, data types, operators, expressions, statements, blocks, and control flow.
 
