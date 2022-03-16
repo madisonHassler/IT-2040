@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/Automobile
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/Automobile.deps.json
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/Automobile.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/Automobile.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/Automobile.dll
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/ref/Automobile.dll
+/Users/madi/Documents/GitHub/IT-2040/Automobile/bin/Debug/net5.0/Automobile.pdb
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.dll
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/ref/Automobile.dll
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.pdb
+/Users/madi/Documents/GitHub/IT-2040/Automobile/obj/Debug/net5.0/Automobile.genruntimeconfig.cache
