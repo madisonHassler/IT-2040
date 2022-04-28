@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.deps.json
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/ref/CrimeAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.pdb
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/ref/CrimeAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.pdb
+/Users/madi/Documents/GitHub/IT-2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.genruntimeconfig.cache

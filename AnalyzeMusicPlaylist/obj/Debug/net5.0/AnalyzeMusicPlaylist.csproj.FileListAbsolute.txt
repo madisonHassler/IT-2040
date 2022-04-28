@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.deps.json
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.dll
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/ref/AnalyzeMusicPlaylist.dll
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.pdb
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.dll
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/ref/AnalyzeMusicPlaylist.dll
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.pdb
+/Users/madi/Documents/GitHub/IT-2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.genruntimeconfig.cache

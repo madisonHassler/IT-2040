@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/Project 2 - SalesDataAnalyzer
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/Project 2 - SalesDataAnalyzer.deps.json
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/Project 2 - SalesDataAnalyzer.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/Project 2 - SalesDataAnalyzer.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/Project 2 - SalesDataAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/ref/Project 2 - SalesDataAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/bin/Debug/net5.0/Project 2 - SalesDataAnalyzer.pdb
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/ref/Project 2 - SalesDataAnalyzer.dll
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.pdb
+/Users/madi/Documents/GitHub/IT-2040/Project 2 - SalesDataAnalyzer/obj/Debug/net5.0/Project 2 - SalesDataAnalyzer.genruntimeconfig.cache
