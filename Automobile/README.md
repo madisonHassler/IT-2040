@@ -10,7 +10,7 @@ Project Name: Automobile
 
 Target Platform: Console 
 
-Programming Language: C# 
+Programming Language: C#
 
 
 Create a class called Automobile
@@ -35,7 +35,7 @@ Create a method called getAutoAge that takes no parameters and returns the age o
 
 In the Main function of the application, test that instances of Automobile can be created and that the methods work. In the following, "Tesla" is the make of the Automobile instance, “Model X” is the model, 2020 is the year,   12345 is the vin, blue is the color and AutoType.Sedan is the type.
 
-Main Function Code
+**Main Function Code**
 ```
 Console.WriteLine("\nCreating the first Automobile\n---------------");
 Automobile auto1 = new Automobile("Tesla", "Model X", 2020, "12345", "blue", AutoType.Sedan);
