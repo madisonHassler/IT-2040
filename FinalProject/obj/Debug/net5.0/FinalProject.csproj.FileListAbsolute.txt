@@ -1,0 +1,16 @@
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/FinalProject
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/FinalProject.deps.json
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/FinalProject.runtimeconfig.json
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/FinalProject.runtimeconfig.dev.json
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/FinalProject.dll
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/ref/FinalProject.dll
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/bin/Debug/net5.0/FinalProject.pdb
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.csproj.AssemblyReference.cache
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.AssemblyInfoInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.AssemblyInfo.cs
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.dll
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/ref/FinalProject.dll
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.pdb
+/Users/madi/Documents/GitHub/IT-2040/FinalProject/obj/Debug/net5.0/FinalProject.genruntimeconfig.cache
